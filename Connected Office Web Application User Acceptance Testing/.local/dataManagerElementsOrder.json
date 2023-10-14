@@ -12,6 +12,9 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "FinalDate&Sequence_1",
+        "tempDate&Sequence_1",
+        "DateArray&Sequence_1",
         "allPageText&Sequence_1",
         "tempCheck&Sequence_1",
         "demoUsername&Sequence_1",
