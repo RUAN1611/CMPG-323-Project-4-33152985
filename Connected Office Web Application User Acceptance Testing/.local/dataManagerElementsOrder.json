@@ -12,6 +12,12 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "scrollCount&Sequence_1",
+        "scrollCount&Sequence_25",
+        "ScrolledElement&Sequence_25",
+        "counter&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "tempProduct&Sequence_1",
         "FinalDate&Sequence_1",
         "tempDate&Sequence_1",
         "DateArray&Sequence_1",
