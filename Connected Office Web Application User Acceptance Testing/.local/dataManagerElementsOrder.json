@@ -12,6 +12,10 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "demoPassword&Sequence_3",
+        "variable1&Sequence_3",
+        "demoPassword&Sequence_46",
+        "loginOption&Sequence_4",
         "ScrolledElement&Sequence_44",
         "ScrolledElement&Sequence_45",
         "ScrolledElement&Sequence_43",
