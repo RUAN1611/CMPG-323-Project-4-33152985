@@ -1,0 +1,45 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "demoPassword&Sequence_3",
+        "variable1&Sequence_3",
+        "demoPassword&Sequence_46",
+        "loginOption&Sequence_4",
+        "ScrolledElement&Sequence_44",
+        "ScrolledElement&Sequence_45",
+        "ScrolledElement&Sequence_43",
+        "ScrolledElement&Sequence_42",
+        "scrollCount&Sequence_1",
+        "scrollCount&Sequence_25",
+        "ScrolledElement&Sequence_25",
+        "counter&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "tempProduct&Sequence_1",
+        "FinalDate&Sequence_1",
+        "tempDate&Sequence_1",
+        "DateArray&Sequence_1",
+        "allPageText&Sequence_1",
+        "tempCheck&Sequence_1",
+        "demoUsername&Sequence_1",
+        "dtOrderDetails&Sequence_1",
+        "dtOrders&Sequence_1",
+        "dtCustomers&Sequence_1",
+        "dtProducts&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
